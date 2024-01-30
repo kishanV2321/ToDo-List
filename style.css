@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
+
+.container {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
